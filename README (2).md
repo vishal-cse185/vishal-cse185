@@ -23,28 +23,27 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-> 📝 **Note:** Replace the `#` links above with your actual LinkedIn, Codolio, Twitter, and Instagram URLs once ready.
+> 📝 **Note:** Replace the `#` links above with your actual LinkedIn, Codolio, LeetCode, and Portfolio URLs once ready.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VISHAL&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 A passionate **Full Stack Developer** who loves turning ideas into real, working products
-- 🤖 Deeply fascinated by **Machine Learning** and how machines learn to think
-- ⚙️ Comfortable working across the stack — from databases to backend logic to sleek frontends
-- 🧠 Constant learner — new language, new framework, new problem = new adventure
-- 🐞 I don't fear bugs, I hunt them for sport
-- 💡 Believe great code is equal parts **logic** and **creativity**
-- 🌱 Currently leveling up in advanced DSA, ML models, and system design
-- ⚡ Fun fact: I can debate for hours about tabs vs spaces (spoiler — I don't care, just ship it 🚀)
-- 📫 How to reach me: **youremail@example.com**
+- 💻 Full Stack Developer, fascinated by Machine Learning
+- ⚙️ Comfortable across frontend, backend, and databases
+- 🌱 Always learning — new tech, new problems, new solutions
+- 📫 Reach me: **youremail@example.com**
 
 ---
 
@@ -109,6 +108,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHAL&theme=redical&hide_border=true" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHAL/VISHAL/output/github-contribution-grid-snake.svg" alt="contribution snake animation"/>
+</p>
+
+> ⚙️ This snake animates your real contribution graph. To activate it: add the `Platane/snk` GitHub Action to your profile repo (I can generate the exact workflow file for you if you'd like).
 
 ---
 
